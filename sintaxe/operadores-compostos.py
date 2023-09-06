@@ -17,6 +17,9 @@ print(f"x = {y}")
 y *= 2
 print(f"y = {y}")
 
+y //= 2  #divisão inteira
+print(f"y = {y}")
+
 y /= 2
 print(f"y = {y}")
 
